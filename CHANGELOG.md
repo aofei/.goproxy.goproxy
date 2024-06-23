@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.18.0](https://github.com/aofei/.goproxy.goproxy/compare/v0.17.4...v0.18.0) (2024-06-23)
+
+
+### Bug Fixes
+
+* release test 12 ([000f187](https://github.com/aofei/.goproxy.goproxy/commit/000f18745df1b328dbba5a1b47a1f0e1c1d08b7f))
+
+
+### Code Refactoring
+
+* release test 13 ([6722ccd](https://github.com/aofei/.goproxy.goproxy/commit/6722ccd6ab5278872b63ecf8d930ab980579bd4d))
+
+
+### Miscellaneous Chores
+
+* release 0.18.0 ([a9a4c43](https://github.com/aofei/.goproxy.goproxy/commit/a9a4c43c35d6c0b2544587b606044b6ca2d4f0bb))
+
 ## [0.17.4](https://github.com/aofei/.goproxy.goproxy/compare/v0.17.3...v0.17.4) (2024-06-23)
 
 
