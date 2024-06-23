@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.19.0](https://github.com/aofei/.goproxy.goproxy/compare/v0.18.1...v0.19.0) (2024-06-23)
+
+
+### Miscellaneous Chores
+
+* **ci:** update .github/release-please-config.json ([933b0fd](https://github.com/aofei/.goproxy.goproxy/commit/933b0fd10d02e1f1d0ed92235f67473772b2ead2))
+* release 0.19.0 ([c135ca4](https://github.com/aofei/.goproxy.goproxy/commit/c135ca43b7e6655ac1d4eeb15d52a250f7557579))
+
 ## [0.18.1](https://github.com/aofei/.goproxy.goproxy/compare/v0.18.0...v0.18.1) (2024-06-23)
 
 
