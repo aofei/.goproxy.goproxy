@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.18.1](https://github.com/aofei/.goproxy.goproxy/compare/v0.18.0...v0.18.1) (2024-06-23)
+
+
+### Miscellaneous Chores
+
+* **ci:** update .github/release-please-config.json ([a7fad2a](https://github.com/aofei/.goproxy.goproxy/commit/a7fad2ae1633d8050bc369894c45f8508142bc20))
+
 ## [0.18.0](https://github.com/aofei/.goproxy.goproxy/compare/v0.17.4...v0.18.0) (2024-06-23)
 
 
