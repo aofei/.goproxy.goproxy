@@ -15,7 +15,6 @@ jobs:
         id: release-please
         with:
           release-type: go
-          draft: true
           target-branch: master
   release:
     runs-on: ubuntu-latest
