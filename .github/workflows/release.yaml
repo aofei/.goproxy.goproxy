@@ -41,6 +41,6 @@ jobs:
       - name: Run GoReleaser
         uses: goreleaser/goreleaser-action@v5
         with:
-          args: release --clean --skip dockers,docker_manifests
+          args: release --clean --skip docker
         env:
           GITHUB_TOKEN: ${{github.token}}
