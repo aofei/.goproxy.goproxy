@@ -12,7 +12,8 @@
 	],
 	"packages": {
 		".": {
-			"release-type": "go"
+			"release-type": "go",
+			"draft": true
 		}
 	}
 }
