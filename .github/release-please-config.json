@@ -12,8 +12,7 @@
 				{ "type": "test", "section": "Tests"},
 				{ "type": "docs", "section": "Documentation"},
 				{ "type": "chore", "section": "Miscellaneous Chores"}
-			],
-			"draft": true
+			]
 		}
 	}
 }
